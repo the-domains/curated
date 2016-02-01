@@ -4,11 +4,25 @@
         <description><![CDATA[Curated]]></description>
         <link>https://thegrid.ai/curated/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 01 Feb 2016 17:01:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Feb 2016 17:01:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/curated/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://static01.nyt.com/images/2015/03/01/magazine/01cover/01cover-articleLarge-v5.jpg">]]></description>
+            <link>https://thegrid.ai/curated/1a0e2e53-3c8f-4791-b0e9-50a4d9e16f3a/index.html</link>
+            <guid isPermaLink="false">1a0e2e53-3c8f-4791-b0e9-50a4d9e16f3a</guid>
+            <pubDate>Mon, 01 Feb 2016 16:48:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://static01.nyt.com/images/2015/03/15/magazine/15sagaindex/15sagaindex-superJumbo-v2.jpg">]]></description>
+            <link>https://thegrid.ai/curated/42ad44f1-7224-4a19-aa51-5daef21fac8a/index.html</link>
+            <guid isPermaLink="false">42ad44f1-7224-4a19-aa51-5daef21fac8a</guid>
+            <pubDate>Mon, 01 Feb 2016 16:48:33 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[On Connecting...]]></title>
-            <description><![CDATA[<article><h1>On Connecting...</h1><p>The connector's advantage was never knowing people. It's knowing people. The size of your Rolodex matters less than the size of your commitment to the people in your life. I have spent my entire life and career at the intersections of people and relationships.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b4fef564545608ef9e3846cc626a1106df0eb291.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>On Connecting...</h1><p>The connector's advantage was never knowing people. It's knowing people. The size of your Rolodex matters less than the size of your commitment to the people in your life. I have spent my entire life and career at the intersections of people and relationships.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/040723821369ec137d003723a1b547ae7072a766.jpg"></article>]]></description>
             <link>https://thegrid.ai/curated/on-connecting/index.html</link>
             <guid isPermaLink="false">8c2f3049-8bab-4853-a99c-af8c1e313b50</guid>
             <pubDate>Mon, 01 Feb 2016 16:48:33 GMT</pubDate>
@@ -61,20 +75,6 @@
             <link>http://www.oliversacks.com/</link>
             <guid isPermaLink="false">70dfd84d-dd95-4132-9156-7f12123304bc</guid>
             <pubDate>Mon, 01 Feb 2016 16:40:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My Struggle: Book 1]]></title>
-            <description><![CDATA[<article><h1>My Struggle: Book 1</h1><p>My Struggle: Book 1 [Karl Ove Knausgaard, Don Bartlett] on Amazon.com. *FREE* shipping on qualifying offers. My Struggle: Book One introduces American readers to the audacious, addictive, and profoundly surprising international literary sensation that is the provocative and brilliant six-volume autobiographical novel by Karl Ove Knausgaard.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a9a3259032d21167bcae942613a1afb594f4e6a9.jpg"></article>]]></description>
-            <link>http://www.amazon.com/My-Struggle-Karl-Ove-Knausgaard/dp/0374534144</link>
-            <guid isPermaLink="false">2e779a6c-0a96-434a-a857-07bdac651631</guid>
-            <pubDate>Mon, 01 Feb 2016 16:39:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Yuval Noah Harari: What explains the rise of humans?]]></title>
-            <description><![CDATA[<article><h1>Yuval Noah Harari: What explains the rise of humans?</h1><p>Seventy thousand years ago, our human ancestors were insignificant animals, just minding their own business in a corner of Africa with all the other animals. But now, few would disagree that humans dominate planet Earth; we've spread to every continent, and our actions determine the fate of other animals (and possibly Earth itself).</p></article>]]></description>
-            <link>https://www.ted.com/talks/yuval_noah_harari_what_explains_the_rise_of_humans?language=en</link>
-            <guid isPermaLink="false">9c7ef1b9-51b8-4ab4-b013-00e2c54d82c6</guid>
-            <pubDate>Mon, 01 Feb 2016 16:36:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
