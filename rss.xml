@@ -4,8 +4,22 @@
         <description><![CDATA[Curated]]></description>
         <link>https://thegrid.ai/curated/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 01 Feb 2016 17:01:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Feb 2016 17:01:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/curated/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Old Masters at the Top of Their Game]]></title>
+            <description><![CDATA[<article><h1>Old Masters at the Top of Their Game</h1><p>The portraits here are of men and women in their 80s and 90s, rich in the rewards of substantial and celebrated careers, and although I know none of them except by name and reputation, I'm asked why their love's labor is not lost but still to be found.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f95015c3e5ec010f9253a8889731f249e975a56d.jpg"></article>]]></description>
+            <link>http://www.nytimes.com/interactive/2014/10/23/magazine/old-masters-at-top-of-their-game.html</link>
+            <guid isPermaLink="false">a3537119-1f45-4770-8e08-ce0500c7c216</guid>
+            <pubDate>Mon, 01 Feb 2016 16:48:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Silent Music of the Mind: Remembering Oliver Sacks]]></title>
+            <description><![CDATA[<article><h1>The Silent Music of the Mind: Remembering Oliver Sacks</h1><p>Hello, Sara! Dr. Oliver Sacks, one of my great heroes, left our world in the early morning hours of August 30. This is my remembrance.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e110dc4c8958600002e584ea32cb0f3684f0513d.jpg"></article>]]></description>
+            <link>http://us2.campaign-archive2.com/?u=13eb080d8a315477042e0d5b1&amp;id=19f7b97714&amp;e=f393fbdf92</link>
+            <guid isPermaLink="false">298b6e5a-3ed6-4aba-8ddd-258eae8ee2d3</guid>
+            <pubDate>Mon, 01 Feb 2016 16:48:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://static01.nyt.com/images/2015/03/01/magazine/01cover/01cover-articleLarge-v5.jpg">]]></description>
@@ -61,20 +75,6 @@
             <link>https://thegrid.ai/curated/brain/index.html</link>
             <guid isPermaLink="false">f890e206-d7ff-4dc6-bcdb-8e390ac36446</guid>
             <pubDate>Mon, 01 Feb 2016 16:48:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Religious</p>]]></description>
-            <link>https://thegrid.ai/curated/religious/index.html</link>
-            <guid isPermaLink="false">5ea2484b-1f74-436d-9588-f8341e8af73d</guid>
-            <pubDate>Mon, 01 Feb 2016 16:48:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Oliver Sacks, M.D., Author, Neurologist]]></title>
-            <description><![CDATA[<article><h1>Oliver Sacks, M.D., Author, Neurologist</h1><p>Oliver Sacks, M.D. is a physician, a best-selling author, and a professor of neurology at the NYU School of Medicine. The New York Times has referred to him as "the poet laureate of medicine." His newest book is his autobiography: On The Move.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f863c41b20c9c0441ff7105430490dff97e2382e.jpg"></article>]]></description>
-            <link>http://www.oliversacks.com/</link>
-            <guid isPermaLink="false">70dfd84d-dd95-4132-9156-7f12123304bc</guid>
-            <pubDate>Mon, 01 Feb 2016 16:40:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
